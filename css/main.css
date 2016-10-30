@@ -121,8 +121,8 @@ figcaption {
 }
 
 blockquote {
-  border-top: 3px solid #333;
   font-size: 1.5rem;
+  border-top: 3px solid #333;
   color: #666;
   float: left;
   width: 300px;
